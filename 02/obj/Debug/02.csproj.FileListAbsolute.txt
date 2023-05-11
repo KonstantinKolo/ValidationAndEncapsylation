@@ -1,0 +1,7 @@
+D:\DomashnaRabota\Programing\ValidationAndEncapsylation\02\bin\Debug\02.exe.config
+D:\DomashnaRabota\Programing\ValidationAndEncapsylation\02\bin\Debug\02.exe
+D:\DomashnaRabota\Programing\ValidationAndEncapsylation\02\bin\Debug\02.pdb
+D:\DomashnaRabota\Programing\ValidationAndEncapsylation\02\obj\Debug\02.csproj.AssemblyReference.cache
+D:\DomashnaRabota\Programing\ValidationAndEncapsylation\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\Programing\ValidationAndEncapsylation\02\obj\Debug\02.exe
+D:\DomashnaRabota\Programing\ValidationAndEncapsylation\02\obj\Debug\02.pdb
